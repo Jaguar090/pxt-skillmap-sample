@@ -14,7 +14,7 @@
 * description: test
 * tags: easy
 
-* url: https:https://arcade.makecode.com/S56705-72544-18752-65661 
+* url: https://arcade.makecode.com/S56705-72544-18752-65661
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
 
 ## space
