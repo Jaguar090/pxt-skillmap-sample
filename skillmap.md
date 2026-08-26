@@ -10,11 +10,11 @@
 ### interface-activity1
 
 * name: Learn to use MakeCode Arcade
-* type: tutorial
-* description: Intro to our tutorial cards
+* type: share
+* description: test
 * tags: easy
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
+* url: https:https://arcade.makecode.com/S56705-72544-18752-65661 
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
 
 ## space
