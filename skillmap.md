@@ -10,7 +10,7 @@
 ### interface-activity1
 
 * name: Learn to use MakeCode Arcade
-* type: code
+* type: tutorial
 * description: test
 * tags: easy
 
