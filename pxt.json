@@ -6,7 +6,8 @@
     "description": "My Skillmap",
     "files": [
         "main.ts",
-        "skillmap.md"
+        "skillmap.md",
+        "stage1_1.md"
     ],
     "targetVersions": {
         "targetId": "arcade"
