@@ -1,9 +1,9 @@
 # My Custom Skillmap
 
 ## map
-* root: アルゴリズム問題
+* root: stage1_1
 
-### ステージ1_1
+### stage1_1
 * name: プログラムをつくってすべてのコインをとろう！
 * type: tutorial
-* url: /stage1_1.md
+* url: stage1_1.md
