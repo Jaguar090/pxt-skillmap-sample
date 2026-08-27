@@ -7,15 +7,11 @@
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
-### interface-activity1
-
-* name: Learn to use MakeCode Arcade
+### sample_game
+* name: サンプルゲームで遊ぼう
 * type: tutorial
-* description: test
-* tags: easy
-
 * url: /sample_game
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
+
 ---
 
 ## sample_game
