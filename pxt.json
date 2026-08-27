@@ -1,34 +1,14 @@
 {
-    "name": "pxt-skillmap-sample",
-    "version": "0.0.1",
-    "description": "",
+    "name": "custom-skillmap",
     "dependencies": {
         "device": "*"
     },
+    "description": "My Skillmap",
     "files": [
-        "README.md",
         "skillmap.md",
-        "stage1_1.md",
-        "tutorials/interface/activity1.md",
-        "tutorials/platformer/activity1.md",
-        "tutorials/platformer/activity2.md",
-        "tutorials/platformer/activity3.md",
-        "tutorials/platformer/activity4.md",
-        "tutorials/platformer/activity5.md",
-        "tutorials/space/activity1.md",
-        "tutorials/space/activity2.md",
-        "tutorials/space/activity3.md",
-        "tutorials/space/activity4.md",
-        "tutorials/space/activity5.md"
-    ],
-    "testFiles": [
+        "stage1_1.md"
     ],
     "targetVersions": {
-        "target": "1.0.16",
         "targetId": "arcade"
-    },
-    "supportedTargets": [
-        "arcade"
-    ],
-    "preferredEditor": "tsprj"
+    }
 }
