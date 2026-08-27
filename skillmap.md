@@ -6,4 +6,4 @@
 ### stage1_1
 * name: プログラムをつくってすべてのコインをとろう！
 * type: tutorial
-* url: github.com/Jaguar090/pxt-skillmap-sample/stage1_1.md
+* url: github.com/Jaguar090/pxt-skillmap-sample/stage1_1
