@@ -6,5 +6,5 @@
 ### stage1_1
 * name: プログラムをつくってすべてのコインをとろう！
 * type: tutorial
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
+* url: github:Jaguar090/pxt-skillmap-sample/stage1_1.md
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
