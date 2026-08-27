@@ -4,6 +4,6 @@
 * root: stage1_1
 
 ### stage1_1
-* name: プログラムをつくってすべてのコインをとろう！2
+* name: プログラムをつくってすべてのコインをとろう！
 * type: tutorial
-* url: */stage1_1.md
+* url: stage1_1.md
