@@ -6,4 +6,4 @@
 ### ステージ1_1
 * name: プログラムをつくってすべてのコインをとろう！
 * type: tutorial
-* url: /stage1_1
+* url: /stage1_1.md
