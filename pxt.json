@@ -1,15 +1,15 @@
 {
-    "name": "custom-skillmap",
-    "dependencies": {
-        "device": "*"
-    },
-    "description": "My Skillmap",
-    "files": [
-        "main.ts",
-        "skillmap.md",
-        "stage1_1.md"
-    ],
-    "targetVersions": {
-        "targetId": "arcade"
-    }
+  "name": "custom-skillmap",
+  "dependencies": {
+    "device": "*"
+  },
+  "description": "My Skillmap",
+  "files": [
+    "main.ts",
+    "skillmap.md",
+    "stage1_1.md"
+  ],
+  "targetVersions": {
+    "targetId": "arcade"
+  }
 }
