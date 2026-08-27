@@ -5,6 +5,7 @@
     },
     "description": "My Skillmap",
     "files": [
+        "main.ts",
         "skillmap.md",
         "stage1_1.md"
     ],
